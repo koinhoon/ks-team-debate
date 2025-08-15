@@ -7,3 +7,4 @@ agno
 reportlab
 markdown
 googlesearch-python
+pycountry
